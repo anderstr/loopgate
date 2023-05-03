@@ -21,7 +21,7 @@ Here are two examples:
 
 const unlockables: Unlockable[] = [
   {
-    cid: "bafybeicjztphlwzr5ksfcz3oet3ujrkg7thm3ndgncwmtt3a2hh5mriie4", // HTML blog example
+    cid: "bafybeifmrdhe7kza7p7ve76utv7qvsko345b2nsbqgymi2iyxacv7wigme", // HTML blog example
     nftId: [
       "0xf6491a430f212762f6612f94fcf1f2d9aadabe1fc3bb4b42a8aaa2998adce25a",
     ], // You need to own 'Salvations' to unlock this.
