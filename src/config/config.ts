@@ -27,7 +27,7 @@ const unlockables: Unlockable[] = [
     ], // You need to own 'Salvations Edge' to unlock this.
   },
   {
-    cid: "bafybeicafkg6irllndsjdssm2ag6dzyubto3hp4gxm63yr6jcyz43k2xfa", 
+    cid: "bafybeicousi4kw5hdhwxli5gvtmrcwm4famjgxtfgdec4xsz6tped2xwgy", 
     nftId: [
       "0xbda091453d097adf4e105718ee1d1ca9a9f1087ad5b01e1e920458021fd9aa2a",
     ], // You need to own 'Lumos Butterfly' to unlock this.
