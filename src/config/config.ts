@@ -21,16 +21,22 @@ Here are two examples:
 
 const unlockables: Unlockable[] = [
   {
-    cid: "bafybeifmrdhe7kza7p7ve76utv7qvsko345b2nsbqgymi2iyxacv7wigme", // HTML blog example
+    cid: "bafybeidrs56nxsecknrybfmpilx3epscnpdpnbipgyxuhthfxjilkylhme", 
     nftId: [
       "0xf6491a430f212762f6612f94fcf1f2d9aadabe1fc3bb4b42a8aaa2998adce25a",
-    ], // You need to own 'Salvations' to unlock this.
+    ], // You need to own 'Salvations Edge' to unlock this.
   },
   {
-    cid: "bafybeihx5eacyxeydcpvudwxa242rnjhn67femy46gzas5d2djb24ti5mi", // MP4 video example
+    cid: "bafybeicafkg6irllndsjdssm2ag6dzyubto3hp4gxm63yr6jcyz43k2xfa", 
     nftId: [
-      "0x8aa9d39f44b4b8488d0bbf04ea12bec99ddbe676a1b9a38d853701327437e78c",
-    ], // You need to own 'GM #2' to unlock this.
+      "0xbda091453d097adf4e105718ee1d1ca9a9f1087ad5b01e1e920458021fd9aa2a",
+    ], // You need to own 'Lumos Butterfly' to unlock this.
+  },
+  {
+    cid: "bafybeih46qz57s2yh3qsf6z76r5cfd5yrrheu6vphwwh2l4tuy3nhuvqaa", 
+    nftId: [
+      "0xa74e06e35e3602623b1e254e6d79d2839c4297fc99c60d13d5f15bc04a599f10",
+    ], // You need to own 'Crimson Butterfly' to unlock this.
   },
   {
     cid: "bafybeihhx5v3saq3b7n55ub5q3atuw2udbqc5ictkv2ih7vd3hxptu22nu", // Web game example
