@@ -39,6 +39,12 @@ const unlockables: Unlockable[] = [
     ], // You need to own 'Crimson Butterfly' to unlock this.
   },
   {
+    cid: "bafybeig55ttp43cci4yqkj2lmxt3isd6yimrma7xvxuqphewpwjmz5m5ai", 
+    nftId: [
+      "0x1b3d8667d83730f0a2e2a4258c794c6a81c581b621a8768f32961470e91cc859",
+    ], // You need to own 'SpectreGT' to unlock this.
+  },
+  {
     cid: "bafybeihhx5v3saq3b7n55ub5q3atuw2udbqc5ictkv2ih7vd3hxptu22nu", // Web game example
     nftId: [
       "0x8aa9d39f44b4b8488d0bbf04ea12bec99ddbe676a1b9a38d853701327437e78c",
